@@ -13,7 +13,7 @@ Welcome to my GitHub profile! here, I will add my university projects and some p
 
 * 🌍  I'm based in Islamabad, PK
 * ✉️  You can contact me at [wajih.rathore@gmail.com](mailto:wajih.rathore@gmail.com)
-* 🧠  I'm learning ABAP right now
+* 🧠  I'm learning ABAP and Flutter
 
 ### Skills
 
