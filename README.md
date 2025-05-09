@@ -6,14 +6,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wajih
 =============================================================================================================================
 
-a lifelong learner
+passionate learner
 ------------------
 
-Welcome to my GitHub profile! 🚀 Here, you’ll find a collection of projects that showcase my passion for computer science, problem-solving, and creative coding. I love exploring new technologies, whether it’s building innovative applications, diving into AI/ML, or tackling challenges in data structures and algorithms. My repositories reflect my journey as a lifelong learner and a team player, always eager to contribute and collaborate. Let’s build something amazing together—feel free to connect or explore my work! 🌟
+Welcome to my GitHub profile! here, I will add my university projects and some personal projects that i have been working on.
 
 * 🌍  I'm based in Islamabad, PK
 * ✉️  You can contact me at [wajih.rathore@gmail.com](mailto:wajih.rathore@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning ABAP right now
 
 ### Skills
 
