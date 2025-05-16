@@ -1,4 +1,3 @@
-
 Hi, I'm Wajih, a sophomore at FAST-NUCES Islamabad. This GitHub profile showcases my university and personal projects.
 
 - 📍 Location: Islamabad, Pakistan
