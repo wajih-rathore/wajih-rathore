@@ -5,7 +5,7 @@ Hi, I'm Wajih, a sophomore at FAST-NUCES Islamabad. This GitHub profile showcase
 - 🧠 Currently learning: SAP and ABAP
 
 ## Skills
-<img align="right" alt="Language Stats" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajih-rathore&layout=compact&langs_count=8&theme=dark">
+<img align="right" alt="Language Stats" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajih-rathore&layout=compact&langs_count=6&theme=dark">
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
